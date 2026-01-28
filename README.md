@@ -14,7 +14,7 @@ activity, and basic incident response actions.
 - Basic containment using firewall rules (UFW)
 
 ## Repository Structure
-soc-lab/
+blue-team-labs/
 └── incidents/
 └── incident-001-auth-bruteforce.md
 
